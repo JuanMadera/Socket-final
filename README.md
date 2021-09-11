@@ -1,1 +1,5 @@
-# Socket-final
+# Cliente servidor
+
+# Integrantes:
+
+-Juan Madera
